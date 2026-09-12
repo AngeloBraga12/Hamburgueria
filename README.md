@@ -1,8 +1,17 @@
 # Hambúrgueria
 
-Projeto de estudo de uma interface web para uma hamburgueria, com cardápio, carrinho de compras e formulário de endereço para finalização do pedido.
+Interface web responsiva para uma hamburgueria, criada como projeto de prática em desenvolvimento Front-end.
 
-## Tecnologias
+## Funcionalidades
+
+- Cardápio responsivo.
+- Adição e remoção de produtos do carrinho.
+- Cálculo do total do pedido.
+- Validação do endereço de entrega.
+- Interface adaptada para desktop e dispositivos móveis.
+- Feedback visual das interações.
+
+## Stack
 
 - HTML5
 - Tailwind CSS
@@ -10,22 +19,21 @@ Projeto de estudo de uma interface web para uma hamburgueria, com cardápio, car
 - Toastify.js
 - Font Awesome
 
-## Funcionalidades
+## Objetivo técnico
 
-- Cardápio responsivo
-- Adição de produtos ao carrinho
-- Cálculo do total do pedido
-- Validação do endereço de entrega
-- Interface adaptada para desktop e dispositivos móveis
+Praticar manipulação do DOM, estado de interface, lógica de carrinho, validação de formulários e responsividade sem depender de um framework de aplicação.
 
-## Objetivo
+O projeto é educacional. Não processa pagamentos e não representa uma operação comercial real.
 
-Praticar desenvolvimento Front-end, estilização responsiva e manipulação de elementos da interface com JavaScript.
+## Papel no portfólio
 
-Este projeto é educacional e não possui processamento real de pagamentos ou operação comercial.
+Projeto introdutório que demonstra fundamentos de JavaScript e construção de interfaces antes da evolução para aplicações React e TypeScript.
 
 ## Autor
 
-**Angelo Braga**
+**Angelo Braga**  
+Técnico em Informática · Desenvolvimento Web / Front-end
 
-GitHub: https://github.com/AngeloBraga12
+- GitHub: https://github.com/AngeloBraga12
+- Portfólio: https://portifolio-angelobraga.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/angelo-braga-5747b4192/
